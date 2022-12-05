@@ -22,3 +22,5 @@ for liczba in range(101):
 
 print('co do chuja hehe')
 print('elo mordo')
+
+print('elo elo mordo')
