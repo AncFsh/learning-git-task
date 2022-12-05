@@ -20,3 +20,4 @@ for liczba in range(101):
         print(liczba)
         print(liczba*liczba*liczba)
 
+print('czipsy dżalapino')
