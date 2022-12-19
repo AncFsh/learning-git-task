@@ -22,3 +22,4 @@ for liczba in range(101):
 
 print(1)
 print(2)
+print('specjalne pozdrowienia')
