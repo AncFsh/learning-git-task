@@ -21,3 +21,4 @@ for liczba in range(101):
         print(liczba*liczba*liczba)
 
 print(1)
+print(2)
