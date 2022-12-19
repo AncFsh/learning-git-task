@@ -19,3 +19,5 @@ for liczba in range(101):
     if liczba % 5 == 0:
         print(liczba)
         print(liczba*liczba*liczba)
+
+print(1)
