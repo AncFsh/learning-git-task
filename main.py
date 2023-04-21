@@ -21,4 +21,4 @@ for liczba in range(101):
         print(liczba*liczba*liczba)
 
 print('czipsy dżalapino')
-print('huahaha')
+print('dupa dupa cycki')
