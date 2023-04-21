@@ -22,3 +22,4 @@ for liczba in range(101):
 
 print('czipsy dżalapino')
 print('dupa dupa cycki')
+print('dupa dupa cycki')
