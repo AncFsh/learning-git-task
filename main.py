@@ -21,5 +21,3 @@ for liczba in range(101):
         print(liczba*liczba*liczba)
 
 print('czipsy dżalapino')
-print('dupa dupa cycki')
-print('dupa dupa cycki')
